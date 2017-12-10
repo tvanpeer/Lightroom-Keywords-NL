@@ -4,9 +4,9 @@ Trefwoorden.txt is gebaseerd op een vertaling van [Lightroom Keyword List Projec
 
 Hondenrassen.txt is gebaseerd op de [Wikipedia lijst van hondenrassen](https://nl.wikipedia.org/wiki/Lijst_van_hondenrassen)
 
-Vogels.txt is ontleend aan vogelvisie.nl
+Vogels.txt is ontleend aan het [overzicht per familie](http://vogelvisie.nl) op vogelvisie.nl
 
 Vogels en Hondenrassen kunnen los geïmporteerd worden of als onderdeel van Trefwoorden.
 
 
-*De Commons Creative licentie is op deze lijst van toepassing, wat betekent dat je de lijst mag kopieren, aanpassen en verder verspreiden, dit laatste mits onder dezelfde licentie. Aanpassingen en aanvullingen worden op prijs gesteld en zullen door mij waar mogelijk verwerkt worden.*
+*De Commons Creative licentie is op deze lijsten van toepassing, wat betekent dat je de lijst mag kopieren, aanpassen en verder verspreiden, dit laatste mits onder dezelfde licentie. Aanpassingen en aanvullingen worden op prijs gesteld en zullen door mij waar mogelijk verwerkt worden.*
